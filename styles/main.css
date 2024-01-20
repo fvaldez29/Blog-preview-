@@ -28,9 +28,11 @@ body{
     flex-direction: column;
     padding: 24px;
     gap: 24px;
+    border: 1px solid var(--black);
     border-radius: 20px;
     width: 336px;
     background-color: var(--Pure_white);
+    box-shadow: 16px 16px 0px 0px #000;
 }
 
 .content{
